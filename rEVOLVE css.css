@@ -153,17 +153,17 @@ html, body {
 #landing .line-break-one {
  background: linear-gradient(60deg, #000000, #FFFFFF, #C0C0C0);
  width: 100%;
- margin: 0 auto;
+ margin: 10 auto;
 }
 #landing .line-break-two {
  background: linear-gradient(60deg, #C0C0C0, #000000, #FFFFFF);
  width: 100%;
- margin: 0 auto;
+ margin: 10 auto;
 }
 #landing .line-break-three {
  background: linear-gradient(60deg, #FFFFFF, #C0C0C0, #000000);
  width: 100%;
- margin: 0 auto;
+ margin: 10 auto;
 }
 @media screen and (max-width: 959px) and (min-width: 768px) {
  #flat .block {
